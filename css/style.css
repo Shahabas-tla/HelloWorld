@@ -6,3 +6,11 @@ h1 {
 p {
     color: brown;
 }
+
+a.btn {
+    color: white;
+    background-color: cadetblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
